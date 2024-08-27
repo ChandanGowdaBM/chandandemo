@@ -1,3 +1,4 @@
 # chandandemo
-this is my first Git repository
-author - Chandan Gowda Bm
+this is my first Git repository.
+<br>
+Author - Chandan Gowda BM
