@@ -1,4 +1,4 @@
 # chandandemo
 this is my first Git repository.
 <br>
-Author - Chandan Gowda BM
+Author - Chandan Gowda BM(vtu)
